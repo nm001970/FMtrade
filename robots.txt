@@ -1,0 +1,8 @@
+User-Agent: Twitterbot
+Allow: /images
+
+User-Agent: *
+Disallow: *utm_*
+Disallow: /registration/
+Disallow: /login/
+
